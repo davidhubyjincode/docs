@@ -12,8 +12,6 @@ To run an app on an iOS device, you need to create it with a development or an A
 
 You can create a development certificate in the [iOS Dev Center](https://developer.apple.com/membercenter).
 
-> If you are using a Free Apple account, you can use the [code signing assistance]({% slug code-signing-assistance %}) feature of Sidekick to automatically generate temporary development certificate and provisioning profile.
-
 ## Prerequisites
 
 * Verify that you have created a certificate signing request and stored the corresponding `CSR` file on your machine. For more information, see [Create a Certificate Signing Request]({% slug create-csr %}).
